@@ -7,4 +7,4 @@ author_profile: true
 ---
 
 I am PhD student in Informatics at University of California, Irvine. My research interests are in the interdisciplinary field of public health, biomedical,
-and Informatics.
+and **Informatics**.
