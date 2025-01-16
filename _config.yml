@@ -18,8 +18,8 @@ email: winston99324@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yiliang personal website
 #twitter_username: username
-github_username: https://github.com/Winston99324?tab=repositories
-minimal_mistakes_skin: default
+github_username: Winston99324
+minimal_mistakes_skin: Dark
 search: true
 
 # Build settings
@@ -68,22 +68,28 @@ author:
       #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Winston99324?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/mysteryoldzhou/?next=%2F"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yiliangzhou114/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Winston99324?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/mysteryoldzhou/?next=%2F"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yiliangzhou114/"
 
 defaults:
   # _posts
