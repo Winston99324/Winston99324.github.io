@@ -16,9 +16,7 @@
 title: Yiliang Zhou
 email: winston99324@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Yiliang personal website
 #twitter_username: username
 github_username: https://github.com/Winston99324?tab=repositories
 minimal_mistakes_skin: default
@@ -58,16 +56,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Yiliang"
+  name   : "Yiliang Zhou"
   avatar : "/assets/images/IMG_3655.JPG"
-  bio    : "A Chill Guy in IN4MATX"
+  bio    : "A Chill Guy; Ph.D student in IN4MATX @ UCI"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://Winston99324.github.io"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -82,10 +80,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Winston99324?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/mysteryoldzhou/?next=%2F"
 
 defaults:
   # _posts
