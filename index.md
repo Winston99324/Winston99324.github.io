@@ -7,7 +7,7 @@ author_profile: true
 header:
   image: "/assets/images/header.jpg"
   caption: "Photo credit: Vincent van Gogh"
-  style: "height: 400px; width: 100%; object-fit: cover;"
+  style: "height: 400px; width: 80%; object-fit: cover;"
 ---
 
 I am PhD student in Informatics at University of California, Irvine. My research interests are in the interdisciplinary field of public health, biomedical,
