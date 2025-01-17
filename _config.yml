@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
   
 header:
-  image: /assets/images/header.jpg
+  image: "/assets/images/header.jpg"
   caption: "Photo credit: Vincent van Gogh"
 
 author:
@@ -94,6 +94,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yiliangzhou114/"
+      
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
