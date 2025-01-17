@@ -54,6 +54,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
+header:
+  image: /assets/images/header.jpg
+  caption: "Photo credit: Vincent van Gogh"
 
 author:
   name   : "Yiliang Zhou"
