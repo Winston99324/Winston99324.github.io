@@ -79,6 +79,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yiliangzhou114/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=pG1YGCEAAAAJ&hl=en"
 
 footer:
   links:
@@ -94,6 +97,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yiliangzhou114/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=pG1YGCEAAAAJ&hl=en"
       
 atom_feed:
   hide: true
